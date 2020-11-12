@@ -10,6 +10,7 @@
 #@PRINT
 #@ESEMPIO CODICE Negozio
 #@INPUT
+#@FUNZIONI
 ##############################################
 
 
